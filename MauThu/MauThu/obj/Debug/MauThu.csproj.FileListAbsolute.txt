@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\MauThu\MauThu\bin\Debug\MauThu.exe.config
+C:\Users\Admin\Desktop\MauThu\MauThu\bin\Debug\MauThu.exe
+C:\Users\Admin\Desktop\MauThu\MauThu\bin\Debug\MauThu.pdb
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.Form1.resources
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.Properties.Resources.resources
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.exe
+C:\Users\Admin\Desktop\MauThu\MauThu\obj\Debug\MauThu.pdb
